@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\source\repos\CICD-Web-App\CICD-Web-App\obj\Release\net8.0\PubTmp\Out\CICD-Web-App.exe
+C:\Users\Administrator\Documents\source\repos\CICD-Web-App\CICD-Web-App\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Administrator\Documents\source\repos\CICD-Web-App\CICD-Web-App\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Administrator\Documents\source\repos\CICD-Web-App\CICD-Web-App\obj\Release\net8.0\PubTmp\Out\CICD-Web-App.dll
+C:\Users\Administrator\Documents\source\repos\CICD-Web-App\CICD-Web-App\obj\Release\net8.0\PubTmp\Out\CICD-Web-App.deps.json
+C:\Users\Administrator\Documents\source\repos\CICD-Web-App\CICD-Web-App\obj\Release\net8.0\PubTmp\Out\CICD-Web-App.runtimeconfig.json
+C:\Users\Administrator\Documents\source\repos\CICD-Web-App\CICD-Web-App\obj\Release\net8.0\PubTmp\Out\CICD-Web-App.pdb
